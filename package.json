@@ -1,0 +1,15 @@
+{
+  "name": "kurzovy-listok",
+  "version": "1.0.0",
+  "description": "Parses exchange list from nbs.sk and returns json currencies with rates in json format within a Promise",
+  "main": "index.js",
+  "email": "matej@soundfile.io",
+  "scripts": {    
+    "try": "node ./try.js"
+  },
+  "author": "Matej Držík <matej.drzik@quanto.sk>",
+  "license": "GPL-3.0",  
+  "dependencies": {
+    "fast-xml-parser": "^2.7.4"
+  }
+}
