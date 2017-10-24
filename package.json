@@ -4,6 +4,7 @@
   "description": "Parses exchange list from nbs.sk and returns json currencies with rates in json format within a Promise",
   "main": "index.js",
   "email": "matej@soundfile.io",
+  "repository": "https://github.com/wirrareka/kurzovy-listok",
   "scripts": {    
     "try": "node ./try.js"
   },
